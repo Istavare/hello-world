@@ -1,5 +1,5 @@
 # Hello world 
-This is my first repository.__
+This is my first repository.
 I dont know how to use github or what anything means but im willing to learn it
 I like doing projects with computers and my raspberry pi's
 I also really like Pokemon mystery dungeon
